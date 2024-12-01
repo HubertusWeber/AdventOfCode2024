@@ -8,8 +8,8 @@ If you're new here, [Advent of Code](https://adventofcode.com/) is an annual cod
 ## 🏆 Progress
 | Day | Part 1 ⭐ | Part 2 ⭐ |
 |-----|------------|------------|
-| 01  |   λ    |    λ     |
-| 02  |   -    |    -     |
+| 01  |   ✅   |    ✅    |
+| 02  |   ❌   |    ❌    |
 | ... |  ...   |   ...    |
 
 ## 🎁 License
