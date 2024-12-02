@@ -5,7 +5,7 @@
 (def input
   (->> (slurp "input.txt")
        str/split-lines
-       (mapv #(mapv parse-long (str/split (str/trim %) #"[,\s]+")))))
+       (mapv (comp #(mapv parse-long %) #(re-seq #"\d+" %)))))
 
 (defn safe? [nums]
   (let [diffs (map - (rest nums) nums)]
