@@ -10,7 +10,9 @@ If you're new here, [Advent of Code](https://adventofcode.com/) is an annual cod
 |-----|------------|------------|
 | 01  |   ✅   |    ✅    |
 | 02  |   ✅   |    ✅    |
-| 03  |   ❌   |    ❌    |
+| 03  |   ✅   |    ✅    |
+| 04  |   ✅   |    ✅    |
+| 05  |   ❌   |    ❌    |
 | ... |  ...   |   ...    |
 
 ## 🎁 License
