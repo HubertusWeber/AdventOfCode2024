@@ -1,9 +1,7 @@
-.DS_Store
-Icon*
 .nrepl-port
 .clj-kondo
 .cpcache
 .lsp
 *.jar
 *.class
-input.txt
+input*
